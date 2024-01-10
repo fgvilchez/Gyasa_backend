@@ -1,2 +1,2 @@
-# Gyasa_backend
+# gyasa-backend
 Sistema de Guzman y Asociados
